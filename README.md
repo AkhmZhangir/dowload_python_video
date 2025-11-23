@@ -1,6 +1,8 @@
-# dowload_python_video
-Download video form any source for free
+# download_python_video
 
-*Firstly download [FFMPEG](https://github.com/FFmpeg/FFmpeg)*  
-*Secondly download .exe file*  
-*Thirdly Follow instructions on command prompt(they are on Russian)*  
+Скачивание видео с любых источников бесплатно
+
+*Во-первых, скачайте [FFMPEG](https://github.com/FFmpeg/FFmpeg)*  
+*Во-вторых, скачайте .exe файл*  
+*В-третьих, следуйте инструкциям в командной строке (они на русском)*  
+
